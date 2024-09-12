@@ -1,5 +1,11 @@
 # Changelog
 
+## [2024.9.3](https://github.com/jdx/mise/compare/v2024.9.2..v2024.9.3) - 2024-09-12
+
+### 📚 Documentation
+
+- added contributors to readme by [@jdx](https://github.com/jdx) in [16cccdd](https://github.com/jdx/mise/commit/16cccdd821a2b78f6a2144ea82ea16f09cacf84f)
+
 ## [2024.9.2](https://github.com/jdx/mise/compare/v2024.9.1..v2024.9.2) - 2024-09-11
 
 ### 🚀 Features
